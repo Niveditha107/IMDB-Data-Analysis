@@ -1,4 +1,4 @@
-#IMDB-Data-Analysis
+# IMDB Movie Data Analysis Project
 <img src="Image.png" alt="IMDB Data Analysis Cover" style="width:100%; height:auto;">
 
 This project involves a comprehensive analysis of the IMDB Movie Dataset using Python, aimed at extracting meaningful insights and patterns from a collection of over 1,000 movies. The dataset includes a variety of features such as movie titles, directors, genres, runtime, release year, ratings, votes, and box office revenue in millions. The analysis begins with an in-depth data exploration phase where the structure and quality of the dataset are examined. Key steps include identifying and handling missing values using heatmaps and summary statistics, removing duplicate entries, and understanding data types and memory usage. The cleaned dataset is then used to perform descriptive analytics that highlight essential aspects such as average movie runtimes, the most productive years in terms of movie releases, and summary statistics of numerical features like revenue and ratings.
